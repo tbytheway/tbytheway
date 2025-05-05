@@ -22,7 +22,7 @@
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,mongodb,python,bash,html,css,git" />
+  <img src="https://skillicons.dev/icons?i=linux,python,bash,react,mongodb,html,css,git" />
 </p>
 
 ## 🐍 My Contributions
