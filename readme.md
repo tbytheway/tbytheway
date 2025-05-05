@@ -1,10 +1,5 @@
-<div align="center"> 
-  <p>Visitor count</p>
-  <img src="https://profile-counter.glitch.me/tbytheway/count.svg" alt="Visitor's Count" />
-</div>
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;+I'm+Terry+Bytheway!;" />
-</h1>
+<img src="https://github.com/tbytheway/tbytheway/blob/main/TerryBythewayGithub Background Photo.png">
+
 <br>
 
 <div align="center">
@@ -36,4 +31,4 @@
 </div>
 
 <hr>
-<img src="https://github.com/tbytheway/tbytheway/blob/main/LRM_EXPORT_20180625_213521.jpg">
+
