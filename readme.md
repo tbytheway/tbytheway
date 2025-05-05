@@ -1,5 +1,7 @@
 <img src="https://github.com/tbytheway/tbytheway/blob/main/TerryBythewayGithub Background Photo.png">
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tbytheway&label=Profile%20views&color=0e75b6&style=flat" alt="tbytheway" /> </p>
+
 <br>
 
 <div align="center">
