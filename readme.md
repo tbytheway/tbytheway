@@ -17,4 +17,13 @@
 </div>
 
 <hr>
-#<img src="https://github.com/tbytheway/tbytheway/blob/main/LRM_EXPORT_20180625_213521.jpg">
+
+
+<br>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,mongodb,python,bash,html,css,git" />
+</p>
+
+<hr>
+<img src="https://github.com/tbytheway/tbytheway/blob/main/LRM_EXPORT_20180625_213521.jpg">
