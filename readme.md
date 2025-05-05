@@ -25,5 +25,17 @@
   <img src="https://skillicons.dev/icons?i=react,mongodb,python,bash,html,css,git" />
 </p>
 
+## 🐍 My Contributions
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tbytheway/tbytheway/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tbytheway/tbytheway/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/tbytheway/tbytheway/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
+
+<hr>
+
 <hr>
 <img src="https://github.com/tbytheway/tbytheway/blob/main/LRM_EXPORT_20180625_213521.jpg">
